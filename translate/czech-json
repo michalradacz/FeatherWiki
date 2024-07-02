@@ -1,0 +1,178 @@
+[
+  {
+    "Origin": "FeatherWiki",
+    "Locale": "FeatherWiki"
+  },
+  {
+    "Origin": "A tiny tool for simple, self-contained wikis!",
+    "Locale": "Nástroj na tvorbu jednoduchých wiki"
+  },
+  {
+    "Origin": "Wiki has changed!",
+    "Locale": "Wiki změněna, uložit!"
+  },
+  {
+    "Origin": "Save Wiki",
+    "Locale": "Uložit"
+  },
+  {
+    "Origin": "Search Pages",
+    "Locale": "Hledání"
+  },
+  {
+    "Origin": "Wiki Settings",
+    "Locale": "Nastavení"
+  },
+  {
+    "Origin": "New Page",
+    "Locale": "Nová stránka"
+  },
+  {
+    "Origin": "Pages",
+    "Locale": "Stránky"
+  },
+  {
+    "Origin": "Recent",
+    "Locale": "Nedávné"
+  },
+  {
+    "Origin": "All Pages",
+    "Locale": "Všechno"
+  },
+  {
+    "Origin": "Missing Pages",
+    "Locale": "Chybějící"
+  },
+  {
+    "Origin": "Wiki Title",
+    "Locale": "Název wiki"
+  },
+  {
+    "Origin": "Wiki Description",
+    "Locale": "Popis wiki"
+  },
+  {
+    "Origin": "Home Page",
+    "Locale": "Homepage"
+  },
+  {
+    "Origin": "Page Order",
+    "Locale": "Řazení stránek"
+  },
+  {
+    "Origin": "Custom CSS",
+    "Locale": "Vlastní CSS"
+  },
+  {
+    "Origin": "Custom JS",
+    "Locale": "Vlastní JS"
+  },
+  {
+    "Origin": "Only runs once on wiki load. To test, save wiki & load that file. ",
+    "Locale": "Spustí se jen jednou po otevření. Pro vyzkoušení uložte a znovu otevřete soubor."
+  },
+  {
+    "Origin": "Custom head",
+    "Locale": "Vlastní hlavička"
+  },
+  {
+    "Origin": ". To test, save wiki & load that file. Be careful! Malformed HTML will break wiki. Include Static HTML Include the wiki content in plain HTML for non-JS browsers. Nearly doubles output size. Publish Hides Save, New Page, & Wiki Settings buttons. You must manually visit ?page=s to unset this. Update",
+    "Locale": "Pro vyzkoušení uložte a znovu otevřete soubor. Buďte opatrní, nesprávný HTML kód může poškodit wiki."
+  },
+  {
+    "Origin": "Include Static HTML",
+    "Locale": "Vložit statický HTML obsah"
+  },
+  {
+    "Origin": "Include the wiki content in plain HTML for non-JS browsers. Nearly doubles output size.",
+    "Locale": "Vloží obsah také v HTML pro situace, kdy nefunguje JavaScript. Zdvojnásobí velikost souboru."
+  },
+  {
+    "Origin": "Publish",
+    "Locale": "Publikované"
+  },
+  {
+    "Origin": "Hides Save, New Page, & Wiki Settings buttons. You must manually visit ?page=s to unset this.",
+    "Locale": "Zkryje odkazy a tlačítka pro úpravy. Pro obnovení zadejte na konci URL odkazu ?page=s"
+  },
+  {
+    "Origin": "Update",
+    "Locale": "Uložit"
+  },
+  {
+    "Origin": "Feather Wiki Version",
+    "Locale": "FeatherWiki verze"
+  },
+  {
+    "Origin": "Import & Overwrite with Other Feather Wiki file",
+    "Locale": "Import a přepis dat"
+  },
+  {
+    "Origin": "Embedded Images",
+    "Locale": "Vložené obrázky"
+  },
+  {
+    "Origin": "Powered by Feather Wiki",
+    "Locale": "Vytvořeno ve FeatherWiki"
+  },
+  {
+    "Origin": "New page title",
+    "Locale": "Název stránky"
+  },
+  {
+    "Origin": "Create",
+    "Locale": "Vytvořit"
+  },
+  {
+    "Origin": "Edit Page",
+    "Locale": "Úpravy stránky"
+  },
+  {
+    "Origin": "Page Title ",
+    "Locale": "Název stránky"
+  },
+  {
+    "Origin": "Page Slug",
+    "Locale": "Slug stránky"
+  },
+  {
+    "Origin": "Slugify Title",
+    "Locale": "Vygenerovat slug"
+  },
+  {
+    "Origin": "Internal links (hash optional): [[Page Title]] or [[text|page_slug#heading]].",
+    "Locale": "Wiki odkazy: [[Název stránky]] nebo [[Tet odkazu|Slug]]"
+  },
+  {
+    "Origin": "Use Markdown",
+    "Locale": "Použít Markdown"
+  },
+  {
+    "Origin": "Page Tags",
+    "Locale": "Tagy stránky"
+  },
+  {
+    "Origin": " Add Existing Tag",
+    "Locale": "Existující tagy"
+  },
+  {
+    "Origin": "Parent",
+    "Locale": "Nadřazená"
+  },
+  {
+    "Origin": "Hide Page",
+    "Locale": "Zkrýt stránku"
+  },
+  {
+    "Origin": "Save",
+    "Locale": "Uložit"
+  },
+  {
+    "Origin": "Cancel",
+    "Locale": "Storno"
+  },
+  {
+    "Origin": "Delete",
+    "Locale": "Smazat"
+  }
+]
